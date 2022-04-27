@@ -1,0 +1,7 @@
+Codigos de Git:
+===========
+git status --> muestra el estado de una rama
+git log --> muestra el historial de una rama
+git checkout -->  ayuda a ver la version de un commit
+
+git log --branches =* --> muestra todo el historial de alguna ramas
